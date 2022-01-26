@@ -7,3 +7,4 @@ Here is a growing collection of resources and commands to know when working with
 ## Git Commands 
 - [git config](./commands/Config.md)
 - [git init](./commands/Init.md)
+- [git commit](./commands/commit.md)
